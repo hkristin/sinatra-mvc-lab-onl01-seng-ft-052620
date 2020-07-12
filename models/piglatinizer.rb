@@ -1,3 +1,5 @@
 class PigLatinizer
-  attr_reader :
+  attr_reader :phrase
+  
+  def initialize(phrase)
 end
